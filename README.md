@@ -68,16 +68,7 @@
 ### **10. Mental Health Data Analysis**  
 - **Description**: Conducted analysis on global mental health data to identify risk factors and trends in disorders like depression and anxiety.  
 - **Tools**: R, ggplot2, dplyr, caret.  
-- **[Read More](project_10_mental_health_analysis/README.md)**  
-
----
-
-## How to Use This Repository  
-
-### Clone the Repository  
-To explore the projects locally, clone this repository using:  
-```bash
-git clone https://github.com/your-username/data-science-portfolio.git
+- **[Read More](project_10_mental_health_analysis/README.md)**
 
 ---
 
@@ -88,3 +79,12 @@ For questions, collaboration, or opportunities, feel free to reach out:
 - **LinkedIn**: https://www.linkedin.com/in/westynhilliard/
 - **Portfolio Website**: https://westyn3.github.io/index.html
 
+
+---
+
+## How to Use This Repository  
+
+### Clone the Repository  
+To explore the projects locally, clone this repository using:  
+```bash
+git clone https://github.com/your-username/data-science-portfolio.git

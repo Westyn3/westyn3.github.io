@@ -1,7 +1,3 @@
-### **Project 9: Customer Churn Prediction for Telecom**  
-**File**: `PredictiveAnalytics2.pdf`  
-**README.md**:  
-```markdown
 # Customer Churn Prediction for Telecom
 
 ## Description  
@@ -22,8 +18,3 @@ This project builds a predictive machine learning model to identify customers li
 
 ## Results  
 - The Gradient Boosting model achieved **85% accuracy** with a strong ROC-AUC score, successfully identifying high-risk churn customers.  
-
-## Instructions  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/data-science-portfolio.git

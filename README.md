@@ -78,3 +78,13 @@
 To explore the projects locally, clone this repository using:  
 ```bash
 git clone https://github.com/your-username/data-science-portfolio.git
+
+---
+
+## Contact Information  
+For questions, collaboration, or opportunities, feel free to reach out:  
+
+- **Email**: whilliard3@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/westynhilliard/
+- **Portfolio Website**: https://westyn3.github.io/index.html
+

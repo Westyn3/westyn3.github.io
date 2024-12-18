@@ -1,10 +1,11 @@
 # Data Science Portfolio  
 **Author**: Westyn Hilliard  
-**Description**: This repository showcases a collection of data science projects focusing on exploratory data analysis (EDA), predictive analytics, machine learning, and data visualization. Each project is well-documented with detailed methodologies, tools used, results, and visualizations.  
+**Description**: Welcome to my Data Science Portfolio. This repository showcases a collection of projects demonstrating skills in exploratory data analysis (EDA), predictive analytics, machine learning, data visualization, and interactive dashboards. Each project includes clear documentation, methodologies, and outcomes.
 
 ---
 
 ## Table of Contents  
+
 1. [Exploratory Data Analysis on Student Performance](project_1_student_performance/README.md)  
 2. [Fraud Detection in Financial Transactions](project_2_fraud_detection/README.md)  
 3. [Video Game Sales Analysis](project_3_video_game_sales/README.md)  
@@ -15,76 +16,82 @@
 8. [Predicting US Retail Sales Trends](project_8_retail_sales_trends/README.md)  
 9. [Customer Churn Prediction for Telecom](project_9_customer_churn/README.md)  
 10. [Mental Health Data Analysis](project_10_mental_health_analysis/README.md)  
+11. [Analysis of U.S. Childcare Costs](project_11_childcare_costs_analysis/README.md)  
 
 ---
 
 ## Projects Overview  
 
 ### **1. Exploratory Data Analysis on Student Performance**  
-- **Description**: Explores student performance data to identify relationships between parental education, economic factors, and academic success.  
+- **Description**: Analyzed student performance data to identify the impact of parental education and economic factors on graduation rates.  
 - **Tools**: Python, Pandas, Matplotlib, Seaborn.  
-- **[Read More](project_1_student_performance/README.md)**  
+- **[Project Details](project_1_student_performance/README.md)**  
 
 ### **2. Fraud Detection in Financial Transactions**  
-- **Description**: Built machine learning models to detect fraudulent transactions by analyzing patterns in financial data.  
+- **Description**: Built machine learning models to detect fraudulent financial transactions.  
 - **Tools**: Python, Scikit-learn, Pandas, Matplotlib.  
-- **[Read More](project_2_fraud_detection/README.md)**  
+- **[Project Details](project_2_fraud_detection/README.md)**  
 
 ### **3. Video Game Sales Analysis**  
-- **Description**: Analyzed global video game sales to identify top-selling platforms and market trends.  
+- **Description**: Analyzed global video game sales to identify top-selling games, platforms, and market trends.  
 - **Tools**: Python, Pandas, Matplotlib.  
-- **[Read More](project_3_video_game_sales/README.md)**  
+- **[Project Details](project_3_video_game_sales/README.md)**  
 
 ### **4. Automotive Data Analysis and Prediction**  
-- **Description**: Analyzed vehicle specifications to understand correlations between fuel efficiency, weight, and horsepower.  
+- **Description**: Explored vehicle specifications to predict fuel efficiency and analyze feature correlations.  
 - **Tools**: Python, Pandas, Seaborn, Matplotlib.  
-- **[Read More](project_4_automotive_analysis/README.md)**  
+- **[Project Details](project_4_automotive_analysis/README.md)**  
 
 ### **5. Boston Housing Data Analysis**  
-- **Description**: Explored socioeconomic factors affecting housing prices using the Boston Housing dataset.  
+- **Description**: Identified socioeconomic factors influencing housing prices using the Boston Housing dataset.  
 - **Tools**: Python, Pandas, Matplotlib, Seaborn.  
-- **[Read More](project_5_boston_housing/README.md)**  
+- **[Project Details](project_5_boston_housing/README.md)**  
 
 ### **6. Web Scraping for Top 100 EBooks**  
-- **Description**: Extracted the top 100 eBooks from Project Gutenberg using web scraping techniques.  
+- **Description**: Extracted top 100 eBooks data from Project Gutenberg using web scraping techniques.  
 - **Tools**: Python, BeautifulSoup, Requests.  
-- **[Read More](project_6_web_scraping_ebooks/README.md)**  
+- **[Project Details](project_6_web_scraping_ebooks/README.md)**  
 
 ### **7. TSA Complaint Analysis**  
-- **Description**: Analyzed TSA complaint data to uncover trends in passenger grievances across airports and complaint types.  
-- **Tools**: Python, Pandas, Matplotlib, Seaborn.  
-- **[Read More](project_7_tsa_complaints/README.md)**  
+- **Description**: Analyzed TSA complaint data to identify trends in grievances across airports and categories.  
+- **Tools**: Python, Pandas, Seaborn, Matplotlib.  
+- **[Project Details](project_7_tsa_complaints/README.md)**  
 
 ### **8. Predicting US Retail Sales Trends**  
-- **Description**: Used ARIMA time series analysis to predict retail sales and identify key trends and disruptions.  
+- **Description**: Used ARIMA time series models to forecast monthly retail sales trends and economic impacts.  
 - **Tools**: Python, Pandas, Statsmodels, Matplotlib.  
-- **[Read More](project_8_retail_sales_trends/README.md)**  
+- **[Project Details](project_8_retail_sales_trends/README.md)**  
 
 ### **9. Customer Churn Prediction for Telecom**  
-- **Description**: Developed a predictive model to identify customers likely to churn using machine learning techniques.  
+- **Description**: Developed machine learning models to predict customer churn and optimize retention strategies.  
 - **Tools**: Python, Pandas, Scikit-learn, Seaborn.  
-- **[Read More](project_9_customer_churn/README.md)**  
+- **[Project Details](project_9_customer_churn/README.md)**  
 
 ### **10. Mental Health Data Analysis**  
-- **Description**: Conducted analysis on global mental health data to identify risk factors and trends in disorders like depression and anxiety.  
+- **Description**: Analyzed global mental health data to identify prevalence, trends, and socioeconomic risk factors.  
 - **Tools**: R, ggplot2, dplyr, caret.  
-- **[Read More](project_10_mental_health_analysis/README.md)**
+- **[Project Details](project_10_mental_health_analysis/README.md)**  
+
+### **11. Analysis of U.S. Childcare Costs**  
+- **Description**: Analyzed U.S. childcare costs from 2008-2018 to identify trends, regional disparities, and policy recommendations.  
+- **Tools**: Python, Tableau, Pandas, Excel.  
+- **[Project Details](project_11_childcare_costs_analysis/README.md)**  
 
 ---
 
-## Contact Information  
-For questions, collaboration, or opportunities, feel free to reach out:  
+## Contact 
 
-- **Email**: whilliard3@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/westynhilliard/
-- **Portfolio Website**: https://westyn3.github.io/index.html
+**Email:** whilliard3@gmail.com
 
+**Linkedin:** https://www.linkedin.com/in/westynhilliard/
+
+**Portfolio Website:** https://westyn3.github.io/index.html
 
 ---
 
 ## How to Use This Repository  
 
-### Clone the Repository  
-To explore the projects locally, clone this repository using:  
-```bash
-git clone https://github.com/your-username/data-science-portfolio.git
+1. **Clone the Repository**:  
+   To explore the projects locally, clone this repository using:  
+   ```bash
+   git clone https://github.com/westyn3/data-science-portfolio.git

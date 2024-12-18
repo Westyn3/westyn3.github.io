@@ -41,14 +41,6 @@ This project analyzes U.S. childcare costs across states and counties from 2008 
 2. Promote employer-supported childcare through tax incentives.  
 3. Invest in early education programs to reduce long-term economic disparities.  
 
-## Visualizations  
-### Example Visuals from Tableau Dashboard:  
-1. **Childcare Costs Trends**:  
-   ![Trends Example](example_trends.png)  
-
-2. **Regional Cost Disparities**:  
-   ![Regional Costs](example_map.png)  
-
 *Full interactive dashboard is available in `Childcare_costs_dashboard.twb`.*
 
 ## Instructions  

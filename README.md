@@ -48,7 +48,7 @@ Here are some highlights of the projects included in this portfolio:
 5. **Customer Churn Prediction**:
    - Develops machine learning models to identify customers likely to churn from telecom services.
 
-Explore all 11 projects in the [Projects Directory](https://github.com/Westyn3/westyn3.github.io/tree/main/projects).
+Explore all 11 projects in the [Projects Directory](https://github.com/Westyn3/westyn3.github.io/blob/main/Projects/README.md).
 
 ---
 

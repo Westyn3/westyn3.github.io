@@ -88,10 +88,3 @@
 **Portfolio Website:** https://westyn3.github.io/index.html
 
 ---
-
-## How to Use This Repository  
-
-1. **Clone the Repository**:  
-   To explore the projects locally, clone this repository using:  
-   ```bash
-   git clone https://github.com/westyn3/data-science-portfolio.git

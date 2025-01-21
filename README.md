@@ -1,6 +1,6 @@
 # Westyn's Portfolio Website
 
-Welcome to my portfolio website repository! This project showcases my skills, experience, and accomplishments as a **Data Scientist** and **Machine Learning Enthusiast**, featuring projects highlighting my expertise in data analysis, predictive modeling, and visualization.
+Welcome to my portfolio website repository! This portfolio showcases my skills, experience, and accomplishments as a **Data Scientist** and **Machine Learning Enthusiast**, featuring projects highlighting my expertise in data analysis, predictive modeling, and visualization.
 
 ## 🌐 Live Website
 You can view the live portfolio website here: [westyn3.github.io](https://westyn3.github.io/)

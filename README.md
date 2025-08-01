@@ -68,12 +68,5 @@ This portfolio website and the projects showcase my proficiency in:
 
 ---
 
-## 📝 Future Plans
-- Add more projects highlighting advanced machine learning techniques.
-- Incorporate interactive visualizations directly into the portfolio.
-- Regularly update the experience and about sections as my career evolves.
-
----
-
 ## 💬 Feedback & Contact
 If you have any feedback or would like to connect, feel free to [contact me](https://westyn3.github.io/contact.html)!

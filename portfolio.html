@@ -153,6 +153,58 @@
 
 <!-- Portfolio item 1 -->
 <div class="portfolio-item">
+    <h2>Automated Freight Label OCR & Routing Pipeline (UPS)</h2>
+    <p>
+        <strong>Description:</strong>  
+        Developed and deployed a full OCR pipeline using Google Cloud Vision and OpenCV to extract key fields (e.g., airport codes, tracking numbers) from scanned shipping labels and automatically assign routing decisions across UPS freight operations.
+    </p>
+    <p>
+        <strong>Tools/Technologies Used:</strong>  
+        - Python, OpenCV, Pandas  
+        - Google Cloud Vision API  
+        - Vertex AI, Flask (for API deployment)
+    </p>
+    <p>
+        <strong>Methodology:</strong>  
+        1. Preprocessed scanned label images using image cleaning and contour detection.  
+        2. Extracted text using Google OCR and parsed it into structured data.  
+        3. Applied business logic and Gemini-based interpretation to determine routing codes.  
+        4. Packaged into a deployable API for automated sort decisions.
+    </p>
+    <p>
+        <strong>Results:</strong>  
+        Automated 90%+ of routing tasks for freight labels, improving accuracy and operational speed at UPS sort hubs.
+    </p>
+</div>
+
+<!-- Portfolio item 2 -->
+<div class="portfolio-item">
+    <h2>Voice-Powered Flow Controller Assistant (UPS)</h2>
+    <p>
+        <strong>Description:</strong>  
+        Built a voice-enabled AI Agent assistant that allows UPS Freight Flow Controllers to ask natural language questions like “Where is trailer 123456?” and receive spoken answers with real-time trailer/bay assignments based on scaping data from the TMS.
+    </p>
+    <p>
+        <strong>Tools/Technologies Used:</strong>  
+        - Google Speech-to-Text & Text-to-Speech APIs  
+        - Gemini 1.5 Flash (LLM) for intent parsing  
+        - Vertex AI, Python, FastAPI
+    </p>
+    <p>
+        <strong>Methodology:</strong>  
+        1. Converted audio input to text using Google STT with custom context boosting.  
+        2. Parsed intent and entities (e.g., trailer numbers) with Gemini.  
+        3. Queried UPS TMS system and responded via Google TTS.  
+        4. Deployed as a cloud API and tested across real hub workflows.
+    </p>
+    <p>
+        <strong>Results:</strong>  
+        Reduced manual trailer lookup time by over 70%, enabled hands-free interaction for control room staff, and served as a proof-of-concept for conversational AI in logistics.
+    </p>
+</div>
+
+<!-- Portfolio item 3 -->
+<div class="portfolio-item">
     <h2>Exploratory Data Analysis on Student Performance</h2>
     <p>
         <strong>Description:</strong>  

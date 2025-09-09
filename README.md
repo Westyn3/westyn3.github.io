@@ -57,7 +57,7 @@ This portfolio website and the projects showcase my proficiency in:
 - **Languages**: Python, R, HTML, CSS, JavaScript
 - **Libraries/Frameworks**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Visualization Tools**: Tableau, Power BI
-- **Other Tools**: Git, Jupyter Notebooks, Flask, Django
+- **Other Tools**: Git, Jupyter Notebooks, Flask, Django, Google Cloud Platform (GCP)
 
 ---
 

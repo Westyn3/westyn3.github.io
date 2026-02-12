@@ -2,7 +2,7 @@
 
 Welcome to my portfolio website repository! This portfolio showcases my skills, experience, and accomplishments as a **Data Scientist** and **Machine Learning Enthusiast**, featuring projects highlighting my expertise in data analysis, predictive modeling, and visualization.
 
-## 🌐 Live Website
+## Live Website
 You can view the live portfolio website here: [westyn3.github.io](https://westyn3.github.io/)
 
 ---
@@ -29,7 +29,7 @@ Contains all project-related files and documentation. Each project has:
 
 ---
 
-## 📚 Featured Projects
+## Featured Projects
 Here are some highlights of the projects included in this portfolio:
 
 1. **Childcare Costs Analysis**:
@@ -61,12 +61,12 @@ This portfolio website and the projects showcase my proficiency in:
 
 ---
 
-## 🚀 How to Use This Repository
+## How to Use This Repository
 1. Clone the repository:
    ```bash
    git clone https://github.com/Westyn3/westyn3.github.io.git
 
 ---
 
-## 💬 Feedback & Contact
+## Feedback & Contact
 If you have any feedback or would like to connect, feel free to [contact me](https://westyn3.github.io/contact.html)!
